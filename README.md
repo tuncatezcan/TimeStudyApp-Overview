@@ -36,4 +36,4 @@ Projenin kaynak kodları akademik nedenlerle paylaşılmamaktadır. Demo sunumu 
 ## 👤 Geliştirici
 **Tunca Tezcan**  
 [https://www.linkedin.com/in/tunca-tezcan-215b1117a/](https://www.linkedin.com/in/tunca-tezcan-215b1117a/)  
-[ytsejam.xyz](ytsejam.xyz)
+[ytsejam.xyz](https://www.ytsejam.xyz)
